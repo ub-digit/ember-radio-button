@@ -23,6 +23,7 @@ export default Ember.Component.extend({
     'name',
     'required',
     'type',
+    'tabindex',
     'value'
   ],
 
